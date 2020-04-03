@@ -1,0 +1,1 @@
+API endpoint : http://udagarm-image-filter-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://www.wendybrandes.com/blog/wp-content/uploads/2020/03/joy.jpg
